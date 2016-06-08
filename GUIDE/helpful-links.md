@@ -17,4 +17,4 @@ The following links may be helpful:
 Other possibly helpful links:
 * https://gist.github.com/s-aska/4952139
 * https://dzone.com/articles/secure-your-sparkjava-webapp-with-pac4j
-
+* https://blog.openshift.com/developing-single-page-web-applications-using-java-8-spark-mongodb-and-angularjs/
